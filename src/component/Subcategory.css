@@ -1,0 +1,34 @@
+.img_with_name_box{
+    display: inline-block;
+    flex-direction: row;
+    margin: 1rem 6rem;
+    border-radius: 3px;
+    background-color: white;
+}
+.img_with_name_box:hover{
+    transform: scale(1.02);
+}
+.img_with_name_box img{
+    padding: 15px;
+    border-radius: 20px;
+    height: 220px;
+    width: 300px;
+}
+.img_with_name_box h6{
+    width: 280px;
+    text-align: center;
+    padding-inline: 2rem;
+    font-size: 20px;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+

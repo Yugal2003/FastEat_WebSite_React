@@ -1,0 +1,158 @@
+.products_h1tag{
+    font-family: cursive;
+    text-align: center;
+    padding-top: 1rem;
+    text-decoration: underline;
+}
+/* meal_details_whole_page start */
+.meal_details_whole_page{
+    margin-top: 2rem;
+    margin-inline: 5rem;
+    border-radius: 3px;
+    background-color: white;
+}
+/* meal_details_whole_page end */
+
+/* products_img_with_text_part start */
+.products_img_with_text_part{
+    display: flex;
+    flex-direction: row;
+}
+/* meal_img start */
+.meal_img img{
+    margin: 2rem 3rem;
+    width: 30rem;
+    border-radius: 2px;
+    height: 25=7rem;
+}
+/* meal_img end */
+/* category_source_tags_section_with_product_ingredients_orange_part start */
+.category_source_tags_section_with_product_ingredients_orange_part{
+    display: flex;
+    flex-direction: column;
+}
+/* category_source_tags_section_with_product_ingredients_orange_part end */
+/* category_source_tags_section start */
+.category_source_tags_section{
+    gap: 0.8rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.category_source_tags_section h2{
+    color: #e16120;
+    font-family: sans-serif;
+}
+.category_source_tags_section h4{
+    font-family:monospace;
+    font-size: 16px;
+    color:rgb(66, 65, 65);
+}
+/* category_source_tags_section end */
+
+
+/* product_ingredients_orange start */
+.product_ingredients_orange{
+    width: 40rem;
+    border-radius: 5px;
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    background-color: #e16120;
+    margin-top: 1.2rem;
+    margin-left: 1rem;
+    height: 21rem;
+}
+.product_ingredients_orange h3{
+    text-align: center;
+    color: white;
+    text-decoration:underline;
+    font-family: cursive;
+    padding-left: 1rem;
+    font-size: 1.3rem;
+}
+.li-dot{
+    align-items: center;
+    background-color: #3a9691;
+    border: .5px solid #fff;
+    border-radius: 50%;
+    box-shadow: 0 1px 1px rgba(0,0,0,.09);
+    color: #fff;
+    display: inline-flex;
+    font-size: 12px;
+    height: 20px;
+    justify-content: center;
+    margin-right: 8px;
+    width: 20px;
+}
+.infredients_data_only{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.oltag{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+}
+/* product_ingredients_orange end */
+/* products_img_with_text_part end */
+
+
+/* products_Measure start */
+.products_Measure{
+    margin: 2rem 3rem;
+    background-color: #FCFCFC;
+}
+.products_Measure h2{
+    font-family: sans-serif;
+}
+.single_measure{
+    display: flex;
+}
+.single_measure svg{
+    width: 30px;
+}
+.single_measure h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+.measure_all_piece{
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+.measure_7_piese{
+    margin-left: 5rem;
+}
+/* products_Measure end */
+
+
+
+/* products_Instructions start */
+.products_Instructions{
+    margin: 2rem 3rem;
+    padding-bottom: 1rem;
+}
+.products_Instructions h2{
+    font-family: sans-serif;
+}
+.products_Instructions p{
+    font-size: 1rem;
+    margin-top: 1rem;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* products_Instructions end */
+
+
+
+
+
+
+
+
+
+
+
+

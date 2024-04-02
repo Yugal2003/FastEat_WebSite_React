@@ -1,0 +1,23 @@
+.subcategory_flex{
+    display: inline-block;
+    margin:1rem 2.4rem;
+    flex-direction: row;
+}
+.subcategory_flex:hover{
+    transform: scale(1.02);
+}
+.whole_category_page{
+    padding-top: 1rem;
+    margin-top: 3rem;
+    background-color: #f9f8f8;
+}
+.subcategory_img_with_name{
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: black;
+}
+
+
