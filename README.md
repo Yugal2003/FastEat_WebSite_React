@@ -1,3 +1,23 @@
+<h1>Introduction FastEat WebSite</h1> 
+
+<ul>
+  <li><h2>Home Page</h2></li>
+  <img src="https://github.com/Yugal2003/FastEat_WebSite_React/assets/132428388/d2a5f621-d6ee-45d0-93fa-2aa69a2fbb67" /><br>
+</ul>
+
+<ul>
+  <li><h2>All Meals Item</h2></li>
+  <img src="https://github.com/Yugal2003/FastEat_WebSite_React/assets/132428388/c360a2b6-104e-4d15-baca-38573ddc79d4" /><br>
+</ul>
+
+<ul>
+  <li><h2>Meals Details Page</h2></li>
+  <img src="https://github.com/Yugal2003/FastEat_WebSite_React/assets/132428388/8f1ab034-6a2c-460c-ae62-9567bd6d7763" /><br>
+  <img src="https://github.com/Yugal2003/FastEat_WebSite_React/assets/132428388/4eacaad9-bcef-4d96-8110-b205d3e588bf" /><br>
+</ul>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
